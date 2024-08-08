@@ -12,12 +12,12 @@ blog_theme: dark # Or use dark
 name: Jeong Seong-Gyu
 tagline: highschool Student, Professional Cookierun Player
 about-description: Hello, my name is Seong Gyu Jeong, and my nickname is "garas", but I want to be called for "geras". I'm Korean highschool student. # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: JSG.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: 4allforone2@gmail.com # Add your Email address
 phone: 010 5828 3968 # Add your Phone number
-website: instagram.com/jsggggg__/ # Add your website, do not add http://
+instagram: instagram.com/jsggggg__/ # Add your website, do not add http://
 Youtube: www.youtube.com/@Garasss__ # Add your Linkedin handle
 github: jsggggg # Add your Github handle
 twitter: '@1stGaras' # Add your Twitter handle
